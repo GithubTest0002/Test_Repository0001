@@ -63,5 +63,5 @@ im2=pyautogui.screenshot('job management.png')  # 약 100ms 후 찍는게 defaul
 # pixel에 grey scale하면 좀더 빨리 처리가능. 픽셀당 색구분도 가능 
 # 더 상세한건 document 참고
 
-
+# 변경 및 추가 
 
